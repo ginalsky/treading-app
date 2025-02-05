@@ -1,6 +1,6 @@
 package com.project.treadingapp.domain;
 
-public enum UserRole {
+public enum BrokerRole {
     ROLE_ADMIN,
     ROLE_USER
 }
